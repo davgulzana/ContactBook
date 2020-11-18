@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Gulzana",
+      "lastName": "",
+      "phoneNumber": "0555559533",
+      "id": 1
+    },
+    {
+      "name": "jjj",
+      "lastName": "",
+      "phoneNumber": "8",
+      "id": 3
+    },
+    {
+      "name": "kkkk",
+      "lastName": "new",
+      "phoneNumber": "8",
+      "id": 4
+    }
+  ]
+}
